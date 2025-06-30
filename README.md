@@ -11,4 +11,4 @@
 - Telegram bots and automation
 - and more  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vq6oon&show_icons=true&theme=tokyonight)
