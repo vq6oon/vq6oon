@@ -1,4 +1,4 @@
-### Hi there 👋, I'm savio 4
+### Hi there 👋, I'm vq6oon
 
 🚀 Passionate about Linux, Android Modding, and Open Source  
 🐧 Using Arch-based distro (CachyOS)  
