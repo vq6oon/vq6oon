@@ -8,6 +8,7 @@
 ### 🔨 Projects
 - Kernel & ROM Mods
 - Custom terminal setups
+- Minecraft Server
 - Telegram bots and automation
 - and more  
 
