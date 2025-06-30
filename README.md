@@ -6,8 +6,9 @@
 📱 Currently tweaking: Redmi Note 9 (Merlin)
 
 ### 🔨 Projects
-- 🧪 Kernel & ROM Mods
-- 🖥️ Custom terminal setups
-- 📦 Telegram bots and automation
+- Kernel & ROM Mods
+- Custom terminal setups
+- Telegram bots and automation
+- and more  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
