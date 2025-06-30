@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm savio 4
 
-<!--
-**vq6oon/vq6oon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Linux, Android Modding, and Open Source  
+🐧 Using Arch-based distro (CachyOS)  
+🔧 Tools I love: Fish shell, Nano, Zed, KernelSU
+📱 Currently tweaking: Redmi Note 9 (Merlin)
 
-Here are some ideas to get you started:
+### 🔨 Projects
+- 🧪 Kernel & ROM Mods
+- 🖥️ Custom terminal setups
+- 📦 Telegram bots and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
 -->
