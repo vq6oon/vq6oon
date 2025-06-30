@@ -2,7 +2,7 @@
 
 🚀 Passionate about Linux, Android Modding, and Open Source  
 🐧 Using Arch-based distro (CachyOS)  
-🔧 Tools I love: Fish shell, Nano, Zed, KernelSU
+🔧 Tools I love: Fish shell, Nano, Zed, KernelSU  
 📱 Currently tweaking: Redmi Note 9 (Merlin)
 
 ### 🔨 Projects
