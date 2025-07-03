@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm vq6oon
 
 🚀 Passionate about Linux, Android Modding, and Open Source  
-🐧 Using Arch-based distro (CachyOS)  
+🐧 Using Arch Linux  
 🔧 Tools I love: Fish shell, Nano, Zed, KernelSU  
 📱 Currently tweaking: Redmi Note 9 (Merlin)
 
