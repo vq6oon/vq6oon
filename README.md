@@ -28,4 +28,4 @@
 
 ---
 
-✨ *“Hack it until you make it.”* ✨
+✨ *“lazy people”* ✨
