@@ -1,7 +1,7 @@
 # Hi there 👋, I'm vq6oon  
 
 🚀 **Linux & Android Kernel Enthusiast**  
-🐧 Daily driving **Fedora** & **Ubuntu Linux**  
+🐧 Daily driving **Nyarch Linux** & **Ubuntu Linux**  
 📱 Currently tweaking **Redmi Note 9 & Redmi Note 8 Pro**  
 🔧 Favorite tools: `Nano` · `Zed` · `Git`  
 
