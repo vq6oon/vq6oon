@@ -1,8 +1,8 @@
 # Hi there 👋, I'm vq6oon  
 
 🚀 **Linux & Android Kernel Enthusiast**  
-🐧 Daily driving **Nyarch Linux** & **Ubuntu Linux**  
-📱 Currently tweaking **Redmi Note 9 & Redmi Note 8 Pro**  
+🐧 Daily driving **Arch Linux**     
+📱 Currently tweaking **MI 11 Lite**  
 🔧 Favorite tools: `Nano` · `Zed` · `Git`  
 
 ---
