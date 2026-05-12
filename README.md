@@ -1,8 +1,8 @@
 # Hi there 👋, I'm vq6oon  
 
 🚀 **Linux & Android Kernel Enthusiast**  
-🐧 Daily driving **Windows 10 & BlissOS**     
-📱 Currently tweaking **Redmi Note 9**  
+🐧 Daily driving **Arch Linux (omarchy)**     
+📱 Currently tweaking **POCO F4 5G**  
 🔧 Favorite tools: `Nano` · `Zed` · `Git`  
 
 ---
