@@ -1,7 +1,7 @@
 # Hi there 👋, I'm vq6oon  
 
 🚀 **Linux & Android Kernel Enthusiast**  
-🐧 Daily driving **Arch Linux (omarchy)**     
+🐧 Daily driving **Fedora Linux**     
 📱 Currently tweaking **POCO F4 5G**  
 🔧 Favorite tools: `Nano` · `Zed` · `Git`  
 
